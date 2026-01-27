@@ -1,0 +1,19 @@
+{
+  "name": "my-claude-plugins",
+  "owner": {
+    "name": "Luke Oliff"
+  },
+  "metadata": {
+    "description": "Personal collection of Claude Code plugins",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "btl",
+      "source": {
+        "source": "github",
+        "repo": "lukeocodes/btl"
+      }
+    }
+  ]
+}
