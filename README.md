@@ -7,7 +7,7 @@ Personal collection of Claude Code plugins.
 Add this marketplace to Claude Code:
 
 ```shell
-/plugin marketplace add lukeocodes/my-claude-plugins
+/plugin marketplace add lukeocodes/claude-plugins
 ```
 
 ## Available Plugins
@@ -18,7 +18,7 @@ A lightweight background task manager that automatically replaces processes when
 
 **Install:**
 ```shell
-/plugin install btl@my-claude-plugins
+/plugin install btl@lukeocodes-claude-plugins
 ```
 
 **Learn more:** [github.com/lukeocodes/btl](https://github.com/lukeocodes/btl)
@@ -28,7 +28,7 @@ A lightweight background task manager that automatically replaces processes when
 Get the latest plugin versions:
 
 ```shell
-/plugin marketplace update my-claude-plugins
+/plugin marketplace update lukeocodes-claude-plugins
 ```
 
 ## License
