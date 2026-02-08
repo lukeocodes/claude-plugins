@@ -14,6 +14,13 @@
         "source": "github",
         "repo": "lukeocodes/btl"
       }
+    },
+    {
+      "name": "repo-man",
+      "source": {
+        "source": "github",
+        "repo": "lukeocodes/repo-man"
+      }
     }
   ]
 }
